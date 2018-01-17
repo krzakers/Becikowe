@@ -1,1 +1,3 @@
 import krzakers
+
+print('owk')
